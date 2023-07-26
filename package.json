@@ -1,8 +1,13 @@
 {
   "name": "raidteyar-shittier",
+  "publisher": "raidteyar",
+  "icon": "images/icon.jpg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raid-teyar/raidteyar-shittier"},
   "displayName": "Shittier",
   "description": "Shittier is a unique code formatting tool designed to give your code an intentionally disorderly and chaotic appearance. Unlike popular tools like Prettier, which prioritize enhancing code formatting and readability, Shittier takes an entirely different approach. It revels in embracing chaos, messiness, and confusion, pushing your code to look shittier than ever before.",
-  "version": "0.0.1",
+  "version": "0.0.11",
   "engines": {
     "vscode": "^1.80.0"
   },
