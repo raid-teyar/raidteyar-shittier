@@ -14,7 +14,7 @@ export function activate(context: vscode.ExtensionContext) {
       editBuilder.replace(textRange, shittifiedText);
     });
   });
-
+  
   // make the command execute before save
 //   vscode.workspace.onWillSaveTextDocument((event) => {
 //     const text = event.document.getText();
