@@ -40,7 +40,7 @@ yet to be implemented...
 
 ## Contributing
 
-If you wish to contribute to Shittier, we welcome your unique ideas! Feel free to submit bug reports, feature requests, or pull requests on our [GitHub repository](https://github.com/raid-teyar/raidteyar-shittier).
+ Contributions are welcome anytime, together, to make it shittier [GitHub repository](https://github.com/raid-teyar/raidteyar-shittier).
 
 ## License
 
